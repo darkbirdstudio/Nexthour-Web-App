@@ -188,7 +188,6 @@ return [
         Laravel\Cashier\CashierServiceProvider::class, 
       
         Unicodeveloper\Paystack\PaystackServiceProvider::class,      
-        // Kevupton\LaravelCoinpayments\Providers\LaravelCoinpaymentsServiceProvider::class,
         Kevupton\LaravelCoinpayments\Providers\LaravelCoinpaymentsServiceProvider::class,
         Vimeo\Laravel\VimeoServiceProvider::class,
         Yajra\DataTables\DataTablesServiceProvider::class,
